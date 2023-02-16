@@ -1,0 +1,39 @@
+body{
+    background-image: url(Floral-Pattern.png);
+    overflow: hidden;
+}
+.div{
+    display: inline-flex;
+    justify-content: center;
+    margin-left: 30px;
+    background: bisque;
+
+}
+#name{
+    width: 50px;
+    border: 2px solid black;
+    
+    
+}
+
+#link{
+    width: 50px;
+    border: 2px solid black;
+}
+
+#button{
+    width: 20px;
+    height: 20px;
+    
+    
+}
+
+#listDiv{
+    background-color: rgba(255, 228, 196, 0.474);
+    width:fit-content;
+    color: rgb(72, 1, 1);
+    text-shadow: 2px .5px rgb(194, 193, 193);
+
+
+}
+
